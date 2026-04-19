@@ -105,7 +105,7 @@ higher-value purchases.
 while high-AOV items like ThinkPad and MacBook carry disproportionate financial risk 
 from refunds.*
 
-![Product Performance Chart](images/sales_%_brand.png)
+![Product Performance Chart](images/sales_brand.png)
 
 - **Top Performers by Revenue:** Gaming Monitor led all products at $9.8M in total revenue, 
 followed by AirPods at $7.7M and MacBook at $6.2M. Together these three products account 
@@ -134,7 +134,10 @@ present operational risk at scale. See the [Refunds](#refunds) section for a ful
 and decline patterns are broadly consistent across all regions — with LATAM emerging as a 
 notable exception with its own distinct seasonality.*
 
-![Regional Trends Chart](images/regional_trends.png)
+<div align="center">
+  <img src="images/regional_brand.png" width="45%">
+  <img src="images/sales_region.png" width="45%">
+</div>
 
 - **Regional Sales Concentration:** North America is the clear leader, accounting for ~54% 
 of total revenue ($14M), followed by EMEA at ~30% ($8M). The remaining regions make up a 
