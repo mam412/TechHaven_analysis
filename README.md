@@ -29,14 +29,15 @@ This analysis covers five key areas of TechHaven's business performance.
     <td><strong>Sales</strong></td>
     <td>
       • Use high‑volume, lower‑value items as upsell levers<br>
-      • Expand brand portfolio to reduce dependency concentration
+      • Expand brand portfolio to reduce dependency concentration<br>
+      • Verify low sales for Bose in 2022 as being accurate and not an error
     </td>
   </tr>
 
   <tr>
     <td><strong>Product</strong></td>
     <td>
-      • Reassess Samsung Webcam strategy post‑pandemic peak<br>
+      • Expand Samsung portfolio as strong Post Pandemic performance<br>
       • Investigate and evaluate Bose product line<br>
       • Investigate pricing outliers and discount leakage<br>
       • Improve product content to reduce return rates
