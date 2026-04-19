@@ -116,11 +116,6 @@ the portfolio.
 followed by Gaming Monitors at 22% and Samsung Charging Cables at 20%. Collectively these 
 three products represent ~87% of all orders placed across the four-year period.
 
-- **Refund Rates by Product:** Lenovo (ThinkPad) carried the highest refund rate at 12%, 
-and while MacBook's refund count was relatively low at 453, its $1,588 AOV means each return 
-carries significant financial impact. Samsung Charging Cables and Webcams maintained low 
-refund rates of ~2%, posing minimal financial risk.
-
 - **Brand Concentration:** Apple, Lenovo, and a small group of key brands collectively account 
 for ~97% of total revenue. While these brands are clearly resonating with customers, this 
 level of concentration presents a dependency risk if any one brand relationship were to change.
@@ -129,6 +124,10 @@ level of concentration presents a dependency risk if any one brand relationship 
 total orders over four years, making it difficult to draw meaningful conclusions from its 0% 
 refund rate. Samsung Webcams saw exceptional growth in 2021 (+134%) driven by remote work 
 demand, though this trend is unlikely to sustain as the market normalizes.
+
+- **Refund Performance:** High-AOV products like ThinkPad and MacBook carry disproportionate
+financial risk from returns, while high-volume products like AirPods and Gaming Monitors
+present operational risk at scale. See the [Refunds](#refunds) section for a full breakdown.
 
 ### <ins>Regional Performance<ins>
 *TechHaven's performance is heavily concentrated in North America and EMEA, though growth 
@@ -158,13 +157,7 @@ the broader holiday seasonality pattern, showing its strongest performance in Ju
 than November–December. This suggests region-specific demand drivers that warrant a tailored 
 marketing approach rather than a one-size-fits-all global campaign strategy.
 
-- **North America Refund Concentration:** North America accounts for ~50% of total refunds, 
-making it the primary driver of refund-related financial impact across the business. Given 
-its dominant share of both revenue and refunds, improvements to product content, return 
-policies, and post-purchase experience in this market will have an outsized effect on 
-overall refund metrics.
-
-### <ins>Loyalty Program Performance<ins>
+## <ins>Loyalty Program Performance<ins>
 *Despite a lower Average Order Value, loyalty members have demonstrated greater revenue 
 stability and resilience during downturns — making a strong case for continued investment 
 in the program.*
@@ -195,7 +188,45 @@ to avoid policy abuse.
 focus going forward should shift toward increasing AOV within the segment through tiered 
 benefits, targeted upsell strategies, and personalized promotions
 
+## Refunds
 
+*Refund risk at TechHaven splits into two distinct categories — financial risk concentrated
+in high-AOV products and operational risk driven by high-volume items — though a likely
+2020 data integrity issue means trends should be interpreted with caution.*
+
+![Refunds Chart](images/refunds.png)
+
+- **Refund Rate vs. Refund Volume:** ThinkPad carries the highest refund rate at 12% but
+only 343 total refunds, while AirPods account for 21% of all refunds at 2,636 — the
+highest by volume. The top 3 by refund rate are ThinkPad (12%, 343 refunds), MacBook (11%,
+453 refunds), and Apple iPhone (8%, 22 refunds). The top 3 by refund count are AirPods
+(2,636), Gaming Monitor (1,445), and MacBook (453).
+
+- **Regional Refund Concentration:** North America accounts for ~50%($1.2M) of total refunds — more
+than double EMEA at $569K making it the primary driver of refund-related financial impact across the business.
+The highest refund rates by region are concentrated in NA: ThinkPad at 14%, MacBook at 13%, and Apple iPhone at 10%.
+LATAM shows the highest volatility with a standard deviation of $499 against an average refund of $425, compared
+to an overall standard deviation of $463 and average of $416.
+
+- **Brand-Level Refund Risk:** Apple accounts for ~3,000 refunds at a 6% refund rate across
+its full product lineup. Lenovo's single ThinkPad product sits at 12% and 343 refunds —
+a disproportionately high rate for its volume. Samsung and Bose show the lowest refund rates
+and counts, though Bose's 0 refunds across 4 years likely reflects its extremely low order
+volume (27 orders) rather than product quality. Premium price tier products carry the
+highest refund rate overall at 7% across ~4K refunds.
+
+- **Loyalty vs. Non-Loyalty Refund Behavior:** Loyalty members are refunding more than
+non-loyalty customers (2.8K vs. 2.5K) despite placing fewer total orders. In 2020 both
+groups peaked at 1.6K and 1.4K respectively, but 2021 saw non-loyalty refunds drop sharply
+to 288 while loyalty remained elevated at ~1K. Notably, loyalty members' average refund
+value is significantly lower at $297 vs. $549 for non-loyalty — suggesting loyalty members
+return lower-value items more frequently.
+
+- **Data Integrity Flag — 2022 Refunds:** Refund data appears incomplete for 2022. With
+21,565 orders placed that year, a refund rate consistent with prior years would suggest
+approximately 1,000+ refunds — yet 2022 shows no refund records in the dataset. Definitive
+conclusions on refund trends should be treated with caution until 2022 data is fully
+validated.
 
 ### <ins>Marketing Channel Performance<ins>
 *The Direct channel dominates TechHaven's order volume by a wide margin, while the Affiliate 
@@ -204,24 +235,10 @@ high-potential acquisition channel.*
 
 ![Marketing Channel Chart](images/marketing_channel.png)
 
-- **Channel Contribution:** Direct is the dominant driver of order volume at ~83K orders, 
-significantly outperforming all other channels. Email is the next largest contributor at 
-~18K orders, while Affiliate, Social Media, and Unknown channels each contribute fewer 
-than 3K orders combined.
-
 - **Affiliate Channel Opportunity:** Despite its low order volume, Affiliate delivers the 
 highest AOV of any channel at ~$303 — suggesting it consistently attracts higher-intent, 
 higher-value customers. This channel appears underinvested relative to the quality of 
 customers it brings in.
-
-- **Email & Loyalty Refund Risk:** Email drives a disproportionately high number of refunds 
-among loyalty members (636 refunds), suggesting a potential mismatch between promotional 
-messaging and product expectations within this segment. This warrants a closer review of 
-email targeting and offer strategy for loyalty customers specifically.
-
-- **Social Media Refund Rate:** Social media carries the highest refund rate of any channel 
-at ~8%, despite contributing minimal order volume (~1K orders). This points to a disconnect 
-between how products are positioned in social ads and what customers actually receive.
 
 - **Unknown Channel Anomaly:** The Unknown channel spiked +2,325% in 2020 and +295% in 2022 
 — sharply contrasting with declines of -30% to -60% across all other channels in the same 
