@@ -105,7 +105,7 @@ higher-value purchases.
 while high-AOV items like ThinkPad and MacBook carry disproportionate financial risk 
 from refunds.*
 
-![Product Performance Chart](images/product_performance.png)
+![Product Performance Chart](images/sales_%_brand.png)
 
 - **Top Performers by Revenue:** Gaming Monitor led all products at $9.8M in total revenue, 
 followed by AirPods at $7.7M and MacBook at $6.2M. Together these three products account 
