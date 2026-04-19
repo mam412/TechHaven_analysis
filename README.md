@@ -77,7 +77,7 @@ before a broad market contraction in 2022 brought performance closer to pre-pand
 ![Sales Trends Chart](images/sales_trends.png)
 
 - **Overall Revenue & Regional Distribution:** North America was the dominant market, 
-contributing ~54% of total revenue ($14M), followed by EMEA at ~30% ($8M). Sales remain 
+contributing ~52% of total revenue ($14M), followed by EMEA at ~29% ($8M). Sales remain 
 heavily concentrated in these two regions, with other markets representing a relatively 
 small share of total volume.
 
