@@ -283,9 +283,9 @@ overall. See [Loyalty Program Performance](#loyalty-program-performance) below.*
 near-zero repeat purchase rate, higher refund frequency, and eroding AOV advantage
 point to a program in need of significant restructuring.*
 
-
-<img src="images/Loyalty - Loyalty members.png" width ="25%">
-
+<div align="center">
+<img src="images/39 Returning Loyalty Members; $29K Total Sales.png" width ="80%">
+</div>
 
 <div align="center">
   <img src="images/Loyalty - Non-Loyalty AOV sees $345 in 2020 while Loylaty AOV Remains Even.png" width="45%">
@@ -322,8 +322,7 @@ refunding more frequently, non-loyalty refund AOV spiked to ~$400 in 2020 vs.
 loyalty's stable ~$200. By 2022 both have converged around $220–$230.
 
 <div align="center">
-  <img src="images/loyalty_decomp_sales.png" width="45%">
-  <img src="images/loyalty_decomp_orders.png" width="45%">
+  <img src="images/Loyalty Program Total Sales Outpace Non Members 2Q-2021 but Falter Q4-2022.png" width="45%">
 </div>
 
 
