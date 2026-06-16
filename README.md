@@ -114,8 +114,8 @@ warranting deeper investigation into the steep 2022 drop-off.*
 | 2019–2022 (Full) | $28M | $260 | 108K |
 | Jan 2019–Mar 2020 (Pre-Pandemic) | $5M | $237 | 20K |
 | Mar 2020–Mar 2021 (Pandemic Peak) | $12M | $297 | 39K |
-| Mar 2021–Jan 2022 (Normalization) | $7M | $246 | 30K |
-| Jan 2022+ (Post-Normalization) | $4M | $229 | 19K |
+| Mar 2021–Jan 2022 (Post-Pandemic) | $7M | $246 | 30K |
+| Jan 2022+ (Normalization) | $4M | $229 | 19K |
 
 - The pandemic window (Mar 2020–Mar 2021) was the clear performance peak across all
 three metrics - $12M in sales, $297 AOV, and 39K orders. Each subsequent period has
@@ -246,10 +246,6 @@ and counts, though Bose's 0 refunds across 4 years likely reflects its extremely
 volume (27 orders) rather than product quality. Premium price tier products carry the
 highest refund rate overall at 7% across ~4K refunds.
 
-<div align="center">
-  <img src="images/refund_by_product_year.png" width="75%">
-</div>
-
 - **Lenovo Carries the Highest Risk by Rate:** While Apple dominates by volume, Lenovo's
 ThinkPad carries the highest refund rate in the portfolio at 12% with
 MacBook Air close behind at 11%. At AOVs of $1,100 and $1,588
@@ -276,19 +272,13 @@ return lower-value items more frequently.
 
 *When refund behavior is segmented by loyalty status, a more specific pattern emerges —
 one that raises broader questions about the effectiveness of TechHaven's loyalty program
-overall. See [Loyalty Program Performance](#loyalty-program-performance) below.*
+overall. See [Loyalty Program Performance]) below.*
 
 ## <ins>Loyalty Program Performance<ins>
 *Despite early promise, the loyalty program shows structural weaknesses —
 near-zero repeat purchase rate, higher refund frequency, and eroding AOV advantage
 point to a program in need of significant restructuring.*
 
-
-
-<div align="center">
-  <img src="images/Loyalty - Non-Loyalty AOV sees $345 in 2020 while Loylaty AOV Remains Even.png" width="45%">
-  <img src="images/Loyalty - Loyalty Members Return More Often2.png" width="50%">
-</div>
 
 - **Revenue Contribution:** Since Q2-2021, loyalty members have generated higher 
 total sales compared to non-loyalty customers. Totalling $10M between 2019-2022.
@@ -301,6 +291,12 @@ total sales compared to non-loyalty customers. Totalling $10M between 2019-2022.
 i different date - a repeat purchase rate of essentially 0% and sales of $29K. For a program designed
 to drive retention and repeat buying behavior, this is a significat failure signal.
 The program is enrolling members but not changing their purchasing behavior.
+
+<div align="center">
+  <img src="images/Loyalty Program AoV2.png" width="45%">
+  <img src="images/Loyalty Program Total Sales Outpace Non Members 2Q-2021 but Falter Q4-2022.png" width="45%">
+</div>
+
 
 
 - **AOV Uptick Temporary:** Loyalty members generally carry a lower AOV than non-loyalty customers, 
@@ -316,17 +312,19 @@ advantages. With both metrics now converging or reversing, the data no longer su
 the narrative that loyalty members are more valuable customers.
 
 - **Loyalty Members Refund More Despite Fewer Orders:** Loyalty members generate more
-refunds than non-loyalty customers despite placing fewer total orders (45K vs. 62K), and tend to
+refunds than non-loyalty customers (2.8K vs 2.5K) despite placing fewer total orders (45K vs. 62K), and tend to
 return lower-value items. This points to more lenient return expectations among loyalty members
 and warrants monitoring to avoid policy abuse.
+
+<div align="center">
+  <img src="images/Loyalty - Loyalty Members Return More Often2.png" width="50%">
+</div>
 
 - **Non-Loyalty Refunds Carry Higher Financial Impact:** Despite loyalty members
 refunding more frequently, non-loyalty refund AOV spiked to ~$400 in 2020 vs.
 loyalty's stable ~$200. By 2022 both have converged around $220–$230.
 
-<div align="center">
-  <img src="images/Loyalty Program Total Sales Outpace Non Members 2Q-2021 but Falter Q4-2022.png" width="45%">
-</div>
+
 
 
 - **Program Verdict — Restructure Required:** The loyalty program is not delivering
