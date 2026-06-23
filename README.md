@@ -1,8 +1,22 @@
-# TechHaven - E-commerce Analysis
+<h1 align="center">TechHaven - E-commerce Analysis</h1>
+
 
 TechHaven is a global e-commerce company founded in 2018 specializing in consumer
-electronics. This analysis covers **$28M in revenue across 108K orders from 2019–2022**,
-examining product trends, refunds, loyalty program performance, and marketing channels.
+electronics. Offering products from top brands such as Apple, Samsung, Bose and Lenovo,
+this analysis covers **$28M in revenue across 108K orders from 2019–2022**.
+
+
+# Project Goals
+TechHaven's Head of Operations has requested a comprehensive analysis of company performance
+between 2019 and 2022. This analysis addresses key business questions across product trends,
+refunds, loyalty program performance, and marketing channels.
+
+# Northstar Metrics
+- **Product Performance**: Identifies top and bottom performers across product lines, with a focus on refund rates and revenue concentration.
+- **Refund Trends**: With a focus on Apple, examines refund behavior and how it relates to the broader book of business.
+- **Loyalty Program Performance**: Evaluates the effectiveness of the loyalty program and whether continued investment is warranted.
+- **Marketing Channel Performance**: Analyzes how each acquisition channel contributes to order volume and revenue.
+- **Regional Performance**: Explores how products perform across global markets.
 
 ---
 
