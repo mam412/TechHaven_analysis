@@ -88,12 +88,11 @@ sales and order volume move in lockstep — this is a demand problem, not a pric
 product mix issue.
 
 <div align="center">
-  <img src="images/Macbook North American AoV Fluctuates with 4Q22 Outlier.png" width="70%">
+  <img src="images/Apple Dashboard.png" width="100%">
 </div>
 
 - **Apple peaked Sep–Dec 2020**, declining in all regions since Q4 2021
-- **MacBook sales and volume in lockstep** — volume problem, not a pricing issue
-- **Q4 2022 MacBook AOV dropped to ~$1,200** from a typical $1,500–$1,700 — investigate
+- **Q4 2022 MacBook AOV dropped to ~$1,400** from a typical $1,500–$1,700
 - **AirPods:** 48K orders at $160 AOV — most consistent and predictable volume driver
 - Apple refunds outpace all other brands — see [Refunds](#refunds) for full breakdown
 
@@ -154,11 +153,11 @@ have ever made more than one purchase, pointing to a program that signs customer
 without changing their behavior.
 
 <div align="center">
-  <img src="images/39 Returning Loyalty Members; $29K Total Sales.png" width="80%">
+  <img src="images/39 Returning Loyalty Members.png" width="80%">
 </div>
 
 <div align="center">
-  <img src="images/Loyalty Program AoV2.png" width="45%">
+  <img src="images/Loyalty Program AoV.png" width="45%">
   <img src="images/Loyalty Program Total Sales Outpace Non Members 2Q-2021 but Falter Q4-2022.png" width="45%">
 </div>
 
@@ -213,11 +212,6 @@ making Email the clearest lever for retention and acquisition investment.
 All four regions followed the same pandemic-driven arc — spike in 2020, peak in 2021,
 contraction in 2022 — with NA and EMEA driving the overwhelming majority of revenue
 throughout. The pattern was global, not market-specific.
-
-<div align="center">
-  <img src="images/regional_brand.png" width="45%">
-  <img src="images/sales_region.png" width="45%">
-</div>
 
 - **NA ~54% of revenue ($14M)**, EMEA ~30% ($8M) — together over 80% of total
 - **All four regions mirrored the same growth and decline pattern** — 2020 pandemic
