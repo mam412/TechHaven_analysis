@@ -27,13 +27,13 @@ Taken together, the findings depict a company that grew quickly during a period 
 
 ---
 # Key Insights
-- Loyalty members are high‑value but low‑retention — they behave like one‑time purchasers, meaning loyalty must shift from purchase‑based rewards to engagement between purchases.
+- **Loyalty members are high‑value but low‑retention** — they behave like one‑time purchasers, meaning loyalty must shift from purchase‑based rewards to engagement between purchases.
 
-- Gaming Monitor growth absorbed share from MacBook demand, exposing concentration risk and the need for product diversification.
+- **Gaming Monitor growth absorbed share from MacBook demand**, exposing concentration risk and the need for product diversification.
 
-- Email is the only reliable growth and retention channel, consistently outperforming all others and serving as the primary touchpoint for loyalty members.
+- **Email is the only reliable growth and retention channel**, consistently outperforming all others and serving as the primary touchpoint for loyalty members.
 
-- Pricing anomalies and missing purchase data distort AOV, profitability, and channel performance, limiting TechHaven’s ability to make accurate strategic decisions.
+- **Pricing anomalies and missing purchase data distort AOV, profitability, and channel performance**, limiting TechHaven’s ability to make accurate strategic decisions.
 
 ---
 # Analysis & Insights
@@ -63,7 +63,7 @@ TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K G
 </div>
 
 Gaming Monitor is TechHaven's growth story - the most popular product across all
-regions, growing from 35% to 50%+ revenue share by late 2022 and peaking at ~$186K
+regions, growing from 35% to 58%+ revenue share by late 2022 and peaking at ~$186K
 monthly in NA in January 2022. A late-2022 NA uptick suggests potential renewed
 demand, making this a product line worth expanding into peripherals. Apple MacBook
 is the risk - declining steadily since Q4 2021. A Q4 2022 AOV drop to ~$1,200 from a typical $1,500–$1,700 range adds another
@@ -82,8 +82,7 @@ There are two drivers of refund risk — volume and AOV — and they point to di
 products. MacBook Air generates the highest total refund value at $717K not because
 it has the most returns, but because its $1,588 AOV means each return erases
 significantly more revenue than any other product. AirPods generate the most refund
-volume at 2,636 returns — nearly double their 2019 volume during the 2020 pandemic
-surge — but their $160 AOV limits the per-return financial impact to $421K total.
+volume at 2,636 returns, but their $160 AOV limits the per-return financial impact to $421K total which puts them 3rd in Revenue impact.
 Apple's product line accounts for 58% of all refunds, and while the 2020 spike
 appears tied to pandemic order volume rather than a product-specific issue, the
 concentration warrants a dedicated post-purchase support strategy as order volume
@@ -127,37 +126,32 @@ TechHaven’s loyalty program isn’t failing because customers are disengaged �
 
 ## Marketing Channel Performance
 
-Email is the standout channel — the only one to grow in both 2020 (+223%) and 2021
-(+24%) — driven primarily by loyalty members, who account for 11K of Email's total
+Email is the standout channel - the only one to grow in both 2020 (+223%) and 2021
+(+24%) - driven primarily by loyalty members, who account for 11K of Email's total
 orders vs. 8K from non-loyalty. Every other channel declined in 2021 after the
-pandemic spike, which means Email isn't just a volume channel — it's demonstrably
-reaching the customers TechHaven is trying to retain. This makes Email the most
+pandemic spike. This makes Email the most
 direct lever for any loyalty restructuring effort.  The Affiliate Program channel has
 The highest AOV at ~$303 - consistently attracting higher-intent,
   higher-value customers. This warrants increased investment; however, given its sharp
-  2021 decline (-41%) and sensitivity to market conditions, performance should be
-  closely monitored. If meaningful return isn't evident within 6 months, the program
-  should be discontinued
+  2021 decline (-41%), performance should be
+  closely monitored. If meaningful return isn't evident within 6-12 months, the program
+  should be discontinued.
 
 ![Marketing Channel Chart](images/marketing_channel.png)
 
-- **Affiliate:** Highest AOV at ~$303 — consistently attracts higher-intent,
-  higher-value customers and warrants increased investment; however, given its sharp
-  2021 decline (-41%) and sensitivity to market conditions, performance should be
-  closely monitored. If meaningful return isn't evident within 6 months, the program
-  should be discontinued
+
+| Channel | Order Count | Refund Rate | 2020 YoY | 2021 YoY |
+|---|---|---|---|---|
+| Email | 18,553 | 5% | +223% | +24% |
+| Direct | 83,884 | 5% | +161% | -13% |
+| Affiliate | 2,900 | 5% | +86% | -41% |
+| Social Media | 1,293 | 8% | +95% | -21% |
+| Unknown | 1,469 | 2% | +2,325% | -12% |
+
 - **⚠️ Unknown channel:** Spiked +2,325% in 2020 and +295% in 2022, contrasting
   sharply with declines across every other channel — almost certainly a tracking
   or attribution failure that needs to be resolved before drawing channel-level
   conclusions
-
-| Channel | Order Count | Refund Rate | 2020 YoY | 2021 YoY |
-|---|---|---|---|---|
-| Email | 18,553 | 4.76% | +222.60% | +24.46% |
-| Direct | 83,884 | 5.03% | +160.59% | -12.70% |
-| Affiliate | 2,900 | 4.76% | +86.36% | -41.29% |
-| Social Media | 1,293 | 7.58% | +95.02% | -21.32% |
-| Unknown | 1,469 | 2.45% | +2,324.56% | -12.32% |
 
 ---
 
@@ -200,11 +194,4 @@ To Add
 | 🟡 Medium | **CRM** | Introduce loyalty member benefits between purchases — exclusive offers, shipping perks, or early product access to create engagement touchpoints in a catalog that doesn't naturally drive repeat visits |
 | 🟡 Medium | **Marketing** | Increase Affiliate investment and monitor closely — highest AOV channel at $303 warrants a push, but if meaningful return isn't evident within 6 months, discontinue the program |
 | 🟢 Low | **Data** | Validate 2022 refund data — 0 refunds across 21,565 orders is almost certainly an error and limits the ability to draw trend conclusions |
-
----
-
-# Business Impact
-- Correcting pricing anomalies could increase reported AOV by 8–12%.
-- Expanding gaming peripherals could add $2–3M annually based on current demand.
-- Fixing loyalty retention could unlock $500K–$1M in repeat‑purchase revenue.
 
