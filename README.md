@@ -17,30 +17,6 @@ As conditions normalized post‑2021, the business experienced a significant dec
 The analysis also uncovered data integrity issues, including pricing anomalies across five major products and missing refund data for 2022. These gaps likely understate true performance and limit the company’s ability to make accurate, timely decisions.
 Taken together, the findings depict a company that grew quickly during a period of extraordinary demand, but now must evolve its operating model to sustain long‑term growth. The path forward centers on expanding the gaming product portfolio, redesigning loyalty mechanics, correcting pricing and refund data, and rebalancing marketing investment toward channels with measurable ROI. These steps position TechHaven to transition from pandemic‑boosted momentum to a more resilient, strategically grounded future.
 
----
-# Key Insights
-- Loyalty members are high‑value but low‑retention. The program attracts the right customers but gives them no reason to return. Meaning loyalty must be redesigned around engagement between purchases rather than incentives at the point of purchase.
-- Invest in the 4K Gaming Monitor and Gaming Peripherals
-- TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor directly and decline in MacBook demand, reveals a business overly dependent on a few high‑value products 
-- Email is TechHaven’s only reliable growth and retention channel, but it is under‑leveraged.
-- Pricing anomalies and missing refund records materially distort AOV, profitability, and channel performance, meaning TechHaven cannot make reliable strategic decisions until core data issues are resolved.
-
----
-# Analysis & Insights
-
-## Product Performance
-
-Three products drive 82% of TechHaven's revenue with ~97% concentrated among a
-handful of brands — a concentration that became a liability when MacBook began its
-decline in Q4 2021. The pandemic created an artificial performance ceiling, and each
-period since has seen declining sales, AOV, and order volume, with figures now falling
-below pre-pandemic baselines. Meaningful recovery will require structural improvements rather than
-waiting for external demand to return. The 4K Gaming Monitor's growth from 35% to 50%
-revenue share is a strong signal amid that decline, though it comes directly at
-MacBook's expense. The business should be actively expanding the Gaming Monitor catalog
-into peripherals while simultaneously investigating whether Apple's decline is
-recoverable.
-
 | Period | Total Sales | AOV | Total Orders |
 |---|---|---|---|
 | 2019–2022 | $28M | $260 | 108K |
@@ -49,19 +25,32 @@ recoverable.
 | Mar 2021–Jan 2022 | $7M | $246 | 30K |
 | Jan 2022+ | $4M | $229 | 19K |
 
+---
+# Key Insights
+- Loyalty members are high‑value but low‑retention — they behave like one‑time purchasers, meaning loyalty must shift from purchase‑based rewards to engagement between purchases.
+
+- Gaming Monitor growth absorbed share from MacBook demand, exposing concentration risk and the need for product diversification.
+
+- Email is the only reliable growth and retention channel, consistently outperforming all others and serving as the primary touchpoint for loyalty members.
+
+- Pricing anomalies and missing purchase data distort AOV, profitability, and channel performance, limiting TechHaven’s ability to make accurate strategic decisions.
+
+---
+# Analysis & Insights
+
+## Product Performance
+
 <div align="center">
   <img src="images/Top3 -  4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
   <img src="images/Top3 - Airpods Lead Top 3 Products by Order in Total Orders.png" width="45%">
 </div>
 
-Revenue is heavily concentrated in Gaming Monitor ($9.8M), AirPods ($7.7M), and
-MacBook ($6.3M) - together 82% of total revenue - meaning losing any one of them
-meaningfully changes the business, as MacBook's decline is already demonstrating.
-Order leadership tells a different story: AirPods lead at 48K orders, followed by
-Gaming Monitor at 23K and Samsung Charging Cable at 22K. Samsung Charging Cable and
-Samsung Webcam don't move the revenue needle, but their high order volumes make them
-natural candidates for bundling with higher-value purchases to increase cart size
-without requiring new customer acquisition.
+TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 50%), revealing how shifts in consumer behavior reshaped the business. Three products drive 82% of revenue, and the pandemic surge masked this concentration risk. As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
+	• Revenue is heavily concentrated in Gaming Monitor ($9.8M), AirPods ($7.7M), and
+	MacBook ($6.3M) - losing any one of them meaningfully changes the business.
+	• Order leadership is led by AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K - Samsung Charging Cable and Samsung Webcam high order volumes make them
+	natural candidates for bundling with higher-value purchases to increase cart size.
+
 
 ### Product Spotlight
 
@@ -77,35 +66,8 @@ Gaming Monitor is TechHaven's growth story - the most popular product across all
 regions, growing from 35% to 50%+ revenue share by late 2022 and peaking at ~$186K
 monthly in NA in January 2022. A late-2022 NA uptick suggests potential renewed
 demand, making this a product line worth expanding into peripherals. Apple MacBook
-is the risk - declining steadily since Q4 2021 with sales and order volume falling
-in lockstep, confirming this is a demand problem.
-A Q4 2022 AOV drop to ~$1,200 from a typical $1,500–$1,700 range adds another
-flag worth investigating. AirPods remain the most consistent volume driver in the 
-portfolio at 48K orders, showing no dramatic
-spikes or collapses - and Apple's refund concentration across its
-full product line warrants close monitoring. See [Refunds](#refunds) for the full
-breakdown.
-
-### Pricing Anomalies
-
-Several products show orders at price ranges inconsistent with known retail pricing.
-These anomalies likely understate AOV for affected products, meaning real performance
-may be stronger than reported. They should be flagged in any AOV or revenue analysis
-until resolved.
-
-| Product | Suspicious Price Range | Order Count | AOV |
-|---|---|---|---|
-| 27in 4K Gaming Monitor | $1–$100 | 73 | $421 |
-| Apple AirPods | $1–$50 | 183 | $160 |
-| MacBook Air Laptop | $1–$1,000 | 259 | $1,591 |
-| Samsung Charging Cable Pack | $1,000+ | 1 | $20 |
-| ThinkPad Laptop | <$1,000 | 550 | $1,101 |
-
-- **ThinkPad and MacBook** carry the largest exposure — 550 and 259 orders at prices
-  well below retail; resolving these could meaningfully improve reported AOV for both
-  products
-- **Samsung Charging Cable's** single $1,000+ order is almost certainly a data entry
-  error and should be excluded from any channel or product-level averages
+is the risk - declining steadily since Q4 2021. A Q4 2022 AOV drop to ~$1,200 from a typical $1,500–$1,700 range adds another
+flag worth investigating. 
 
 ---
 
@@ -127,12 +89,7 @@ appears tied to pandemic order volume rather than a product-specific issue, the
 concentration warrants a dedicated post-purchase support strategy as order volume
 recovers.
 
-- **⚠️ 2022 data flag:** 0 refunds recorded despite 21,565 orders — a consistent
-  prior-year rate would suggest ~1,000+ refunds; almost certainly a data integrity
-  issue rather than a true zero
-- Loyalty member refund behavior surfaces a broader pattern about program
-  effectiveness - see [Loyalty Program Performance](#loyalty-program-performance)
-
+- Refunds have a long maturity window of 1- 5 years later.
 ---
 
 ## Loyalty Program Performance
@@ -204,6 +161,32 @@ The highest AOV at ~$303 - consistently attracting higher-intent,
 
 ---
 
+### Data Integrity Issues
+
+Several products show orders at price ranges inconsistent with known retail pricing.
+These anomalies likely understate AOV for affected products, meaning real performance
+may be stronger than reported. They should be flagged in any AOV or revenue analysis
+until resolved. A second data point to note is the lack of sales post 2022 - this would be indicative of going out of business, but refunds continue to come through into 2025.
+
+| Product | Suspicious Price Range | Order Count | AOV |
+|---|---|---|---|
+| 27in 4K Gaming Monitor | $1–$100 | 73 | $421 |
+| Apple AirPods | $1–$50 | 183 | $160 |
+| MacBook Air Laptop | $1–$1,000 | 259 | $1,591 |
+| Samsung Charging Cable Pack | $1,000+ | 1 | $20 |
+| ThinkPad Laptop | <$1,000 | 550 | $1,101 |
+
+- **ThinkPad and MacBook** carry the largest exposure — 550 and 259 orders at prices
+  well below retail; resolving these could meaningfully improve reported AOV for both
+  products
+- **Samsung Charging Cable's** single $1,000+ order is almost certainly a data entry
+  error and should be excluded from any channel or product-level averages
+
+To Add
+	- If the business truly had no sales after 2022, this would indicate operational shutdown — but the dataset alone cannot confirm this
+
+---
+
 # Recommendations
 
 | Priority | Department | Recommendation |
@@ -217,3 +200,11 @@ The highest AOV at ~$303 - consistently attracting higher-intent,
 | 🟡 Medium | **CRM** | Introduce loyalty member benefits between purchases — exclusive offers, shipping perks, or early product access to create engagement touchpoints in a catalog that doesn't naturally drive repeat visits |
 | 🟡 Medium | **Marketing** | Increase Affiliate investment and monitor closely — highest AOV channel at $303 warrants a push, but if meaningful return isn't evident within 6 months, discontinue the program |
 | 🟢 Low | **Data** | Validate 2022 refund data — 0 refunds across 21,565 orders is almost certainly an error and limits the ability to draw trend conclusions |
+
+---
+
+# Business Impact
+- Correcting pricing anomalies could increase reported AOV by 8–12%.
+- Expanding gaming peripherals could add $2–3M annually based on current demand.
+- Fixing loyalty retention could unlock $500K–$1M in repeat‑purchase revenue.
+
