@@ -1,8 +1,9 @@
 # TechHaven - E-commerce Analysis
 
 TechHaven is a global e-commerce company founded in 2018 specializing in consumer
-electronics. This analysis covers **$28M in revenue across 108K orders from 2019–2022**,
-examining product performance, refunds, loyalty program performance, and marketing channels.
+electronics. Offering products from top brands such as Apple, Samsung, Bose and Lenovo.
+TechHaven's Head of Operations has requested a comprehensive analysis of company performance
+between **2019 and 2022**. 
 
 ---
 
