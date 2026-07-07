@@ -48,6 +48,7 @@ Taken together, the findings depict a company that grew quickly during a period 
 **TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 58%), revealing how shifts in consumer behavior reshaped the business. Three products drive 82% of revenue, and the pandemic surge masked this concentration risk.** As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
 - Revenue is heavily concentrated in **Gaming Monitor ($9.8M), AirPods ($7.7M), and
 	MacBook ($6.3M)** - losing any one of them meaningfully changes the business.
+  - For example, if AirPods fell from $7.7M to $2.5M, top‑three concentration would drop from 82% to ~66% - a major shift.
 - Order leadership is led by **AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K** - Samsung Charging Cable and Samsung Webcam high order volumes make them
 natural candidates for bundling with higher-value purchases to increase cart size.
 
