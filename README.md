@@ -13,6 +13,19 @@ between **2019 and 2022**.
   <img src="images/Overview_1.png" width="80%">
 </div>
 
+## TechHaven’s Pandemic Surge Masked Structural Weaknesses That Now Require Strategic Correction
+- **TechHaven generated $28M across 108K orders from 2019–2022**, with performance accelerating sharply during the pandemic surge of 2020–2021.
+- Elevated demand for premium electronics - especially the **27‑inch 4K Gaming Monitor**, the only product to dominate across all four global regions - pushed **AOV to $297** and delivered TechHaven’s strongest year on record.
+- This surge aligned with broader **WFH, gaming, and streaming trends**, temporarily boosting performance beyond sustainable levels.
+- As conditions normalized post‑2021, TechHaven experienced a **significant decline in both sales and AOV, revealing structural vulnerabilities** previously masked by pandemic‑driven demand.
+- **Revenue remained heavily concentrated** in a narrow set of products, with **Apple generating disproportionate refunds** and gaming monitors carrying outsized revenue share.
+- The **loyalty program showed near‑zero retention - only 39 repeat purchasers out of 38,756 members** - indicating TechHaven was acquiring customers but not building long‑term relationships.
+- Marketing leaned too heavily on organic traffic, while **email, the only channel showing consistent growth**, remained under‑leveraged.
+- The analysis also uncovered **data integrity issues**, including pricing anomalies across five major products. These issues likely understate true performance and limit accurate, timely decision‑making.
+- Taken together, the findings depict a company that grew quickly during a period of extraordinary demand, but now must **evolve its operating model** to sustain long‑term growth.
+- **The path forward centers on expanding the gaming product portfolio, redesigning loyalty mechanics, correcting pricing and refund data, and rebalancing marketing investment toward channels with measurable ROI.**
+- These steps position TechHaven to transition from pandemic‑boosted momentum to a **more resilient, strategically grounded future.**
+
 Between 2019 and 2022, TechHaven generated **$28M across 108K orders**, with performance accelerating sharply during the pandemic surge of 2020–2021. Elevated demand for premium electronics - especially the 27‑inch 4K Gaming Monitor, the only product to dominate across all four global regions - pushed average order value to $297 and positioned TechHaven for its strongest year on record. The surge aligned with broader wfh, gaming and streaming trends.
 As conditions normalized post‑2021, the business experienced a significant decline in both sales and AOV, revealing structural vulnerabilities that had been masked by pandemic‑driven demand. **Revenue remained heavily concentrated in a narrow set of products, with Apple generating disproportionate refunds and gaming monitors carrying outsized revenue share. The loyalty program showed near‑zero retention, with only 39 repeat purchasers out of 38,756 members**, indicating that TechHaven was acquiring customers but not building long‑term relationships. Marketing channels leaned too heavily on organic traffic, while email and affiliate - the only channels showing consistent strength - remained under‑leveraged.
 The analysis also uncovered data integrity issues, including pricing anomalies across five major products and missing refund data for 2022. These gaps likely understate true performance and limit the company’s ability to make accurate, timely decisions.
@@ -118,7 +131,9 @@ were actually spending more over time.**
   <img src="images/Loyalty_3.png" width="45%">
 </div>
 
-TechHaven’s loyalty program isn’t failing because customers are disengaged - it’s failing because the product catalog itself doesn’t create natural repeat‑purchase behavior. High‑AOV, single‑purchase electronics mean customers buy once, then have no inherent reason to return, so loyalty must shift from purchase‑based incentives to engagement between purchases.
+**Restructure, Not Discontinue"** 
+TechHaven’s loyalty program isn’t failing because customers are disengaged - it’s failing because the **product catalog itself doesn’t create natural repeat‑purchase behavior.** High‑AOV, single‑purchase electronics mean customers buy once, then have no inherent reason to return. 
+**Loyalty must shift from purchase‑based incentives to engagement between purchases.**
 
 ---
 
